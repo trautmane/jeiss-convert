@@ -1,0 +1,4 @@
+[submodule "jeiss_convert/jeiss-specs"]
+	path = jeiss_convert/jeiss-specs
+	url = https://github.com/trautmane/jeiss-specs.git
+	branch = add-v9-spec
